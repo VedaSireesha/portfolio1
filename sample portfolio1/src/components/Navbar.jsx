@@ -27,7 +27,7 @@ const Navbar = () => {
   return (
     <nav
       className={`fixed top-0 left-0 right-0 w-full z-50 border-b border-gray-200 dark:border-gray-300 transition-all duration-300 ${
-        scrolled ? 'backdrop-blur-md bg-pink-300/10' : 'bg-pink-300'
+        scrolled ? 'backdrop-blur-md bg-pink-300/20' : 'bg-pink-300'
       }`}
       style={{
         boxShadow: '0 4px 24px 0 rgba(0,0,0,0.12)',
@@ -67,7 +67,7 @@ const Navbar = () => {
 
       {mobileDrawerOpen && (
         <div
-          className="fixed top-0 left-0 right-0 z-50 w-full py-6 px-8 flex flex-col items-center lg:hidden backdrop-blur-md bg-pink-300/10"
+          className="fixed top-0 left-0 right-0 z-50 w-full py-6 px-8 flex flex-col items-center lg:hidden backdrop-blur-md bg-pink-300/20"
           style={{
             boxShadow: '0 4px 24px 0 rgba(0,0,0,0.12)',
             fontFamily: "'Poppins', 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif"
