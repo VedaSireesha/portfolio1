@@ -46,7 +46,7 @@ return (
                                     'The backend handles all business logic related to inventory management and supports CRUD (Create, Read, Update, Delete) operations.',
                                     'The system efficiently handles the flow of data between the React frontend and backend, ensuring reliable and real-time inventory updates.',
                                     'This full-stack solution provides a complete management system for handling inventory from entry to retrieval, making it a robust tool for shop management.',
-                                    'Tech: HTML, CSS, SQL, PHP, React,jQuery, Excel, Scrum, Zira.'
+                                    'Tech: HTML, CSS, SQL, PHP, React, jQuery, Excel, Scrum, Jira.'
                                 ],
                             },
                             
