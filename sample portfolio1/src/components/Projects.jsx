@@ -19,7 +19,7 @@ return (
                                 name: 'SafeStorage Dubai Website',
                                 date: 'Jul 2025 – Aug 2025',
                                 desc: [
-                                    'Designed and developed “SafeStorage Dubai” website as a personal project, enabling customers to generate quotations, book pickups, manage monthly rentals, and request item retrievals seamlessly.', 
+                                    'Designed and developed “SafeStorage Dubai” website as a personal project using typescript, enabling customers to generate quotations, book pickups, manage monthly rentals, and request item retrievals seamlessly.', 
                                     'This enables the payment gateways in means of processing the payments hassle-free.', 
                                     'Implemented the platform using HTML, CSS, and TypeScript, ensuring a responsive, user-friendly interface and smooth navigation across devices.'
                                 ],
